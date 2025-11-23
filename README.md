@@ -108,9 +108,7 @@ TumorVision aims to make early tumor screening accessible by combining modern we
 | Name               | Role                     |
 | ------------------ | ------------------------ |
 | **Kevin Santhosh** | Lead Developer           |
-| **Mohsin Bhojani** | Developer                |
 | **Akash Harish**   | Developer                |
-| **Harshi Shah**    | Research & Documentation |
 
 ## 📜 License
 
