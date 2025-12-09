@@ -2,7 +2,7 @@ import { GoogleGenAI } from "@google/genai";
 import { TumorType } from "./types";
 
 const ai = new GoogleGenAI({
-  apiKey: "AIzaSyCJRrEy7y1nT5Cbm9hkfhgrrXL52k_0sNQ"
+  apiKey: "your_api_key"
 });
 
 export async function generateTreatmentPlan(tumorType: TumorType): Promise<string> {
